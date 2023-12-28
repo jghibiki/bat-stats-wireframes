@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T03:15:44.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="kiJB_z87bSvL7AQBJkym" version="22.1.15" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-28T03:17:36.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="-V-iV_3N4h4RL8EL9REg" version="22.1.15" type="github" pages="2">
   <diagram name="List Selection Page" id="qDyTEAsf7X1trr7rJIsg">
     <mxGraphModel dx="2625" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -429,10 +429,10 @@
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-49" value="Endurance" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
           <mxGeometry x="304.9971501394749" y="44.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-48" value="10" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-48" value="10" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
           <mxGeometry x="406.7632221270212" y="44.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-47" value="10" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-47" value="10" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
           <mxGeometry x="406.7632221270212" y="10.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-51" value="Attack" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
@@ -441,28 +441,28 @@
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-53" value="Defense" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
           <mxGeometry x="457.6462581207945" y="44.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-50" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-50" value="3" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
           <mxGeometry x="559.4123301083407" y="10.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-52" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-52" value="3" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
           <mxGeometry x="559.4123301083407" y="44.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-60" value="Strength" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
           <mxGeometry x="614.99823335063" y="10.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-61" value="+5" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-61" value="+5" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
           <mxGeometry x="716.7643053381764" y="10.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-62" value="Move" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
           <mxGeometry x="614.99823335063" y="40.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-63" value="12&quot;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-63" value="12&quot;" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
           <mxGeometry x="716.7643053381764" y="40.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-64" value="Special" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
           <mxGeometry x="614.99823335063" y="70.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-65" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-65" value="3" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
           <mxGeometry x="716.7643053381764" y="70.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-69" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-79">
@@ -516,10 +516,10 @@
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-114" value="Endurance" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
           <mxGeometry x="304.9971501394749" y="44.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-115" value="10" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-115" value="10" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
           <mxGeometry x="406.7632221270212" y="44.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-116" value="10" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-116" value="10" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
           <mxGeometry x="406.7632221270212" y="10.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-117" value="Attack" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
@@ -528,28 +528,28 @@
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-118" value="Defense" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
           <mxGeometry x="457.6462581207945" y="44.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-119" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-119" value="3" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
           <mxGeometry x="559.4123301083407" y="10.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-120" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-120" value="3" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
           <mxGeometry x="559.4123301083407" y="44.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-121" value="Strength" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
           <mxGeometry x="614.99823335063" y="10.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-122" value="+5" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-122" value="+5" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
           <mxGeometry x="716.7643053381764" y="10.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-123" value="Move" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
           <mxGeometry x="614.99823335063" y="40.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-124" value="12&quot;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-124" value="12&quot;" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
           <mxGeometry x="716.7643053381764" y="40.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-125" value="Special" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
           <mxGeometry x="614.99823335063" y="70.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-126" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-126" value="3" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
           <mxGeometry x="716.7643053381764" y="70.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-127" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-107">
@@ -603,10 +603,10 @@
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-87" value="Endurance" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
           <mxGeometry x="304.9971501394749" y="44.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-88" value="10" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-88" value="10" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
           <mxGeometry x="406.7632221270212" y="44.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-89" value="10" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-89" value="10" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
           <mxGeometry x="406.7632221270212" y="10.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-90" value="Attack" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
@@ -615,28 +615,28 @@
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-91" value="Defense" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
           <mxGeometry x="457.6462581207945" y="44.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-92" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-92" value="3" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
           <mxGeometry x="559.4123301083407" y="10.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-93" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-93" value="3" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
           <mxGeometry x="559.4123301083407" y="44.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-94" value="Strength" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
           <mxGeometry x="614.99823335063" y="10.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-95" value="+5" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-95" value="+5" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
           <mxGeometry x="716.7643053381764" y="10.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-96" value="Move" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
           <mxGeometry x="614.99823335063" y="40.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-97" value="12&quot;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-97" value="12&quot;" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
           <mxGeometry x="716.7643053381764" y="40.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-98" value="Special" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
           <mxGeometry x="614.99823335063" y="70.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-99" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-99" value="3" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
           <mxGeometry x="716.7643053381764" y="70.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-100" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-80">
@@ -690,10 +690,10 @@
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-141" value="Endurance" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
           <mxGeometry x="304.9971501394749" y="44.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-142" value="10" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-142" value="10" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
           <mxGeometry x="406.7632221270212" y="44.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-143" value="10" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-143" value="10" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
           <mxGeometry x="406.7632221270212" y="10.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-144" value="Attack" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
@@ -702,28 +702,28 @@
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-145" value="Defense" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
           <mxGeometry x="457.6462581207945" y="44.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-146" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-146" value="3" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
           <mxGeometry x="559.4123301083407" y="10.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-147" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-147" value="3" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
           <mxGeometry x="559.4123301083407" y="44.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-148" value="Strength" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
           <mxGeometry x="614.99823335063" y="10.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-149" value="+5" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-149" value="+5" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
           <mxGeometry x="716.7643053381764" y="10.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-150" value="Move" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
           <mxGeometry x="614.99823335063" y="40.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-151" value="12&quot;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-151" value="12&quot;" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
           <mxGeometry x="716.7643053381764" y="40.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-152" value="Special" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
           <mxGeometry x="614.99823335063" y="70.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-153" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-153" value="3" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
           <mxGeometry x="716.7643053381764" y="70.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-154" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-134">
@@ -783,10 +783,10 @@
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-170" value="Endurance" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
           <mxGeometry x="289.9971501394749" y="46.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-171" value="10" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-171" value="10" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
           <mxGeometry x="391.7632221270212" y="46.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-172" value="10" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-172" value="10" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
           <mxGeometry x="391.7632221270212" y="12.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-173" value="Attack" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
@@ -795,28 +795,28 @@
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-174" value="Defense" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
           <mxGeometry x="289.99625812079455" y="110.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-175" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-175" value="3" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
           <mxGeometry x="391.76233010834073" y="76.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-176" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-176" value="3" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
           <mxGeometry x="391.76233010834073" y="110.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-177" value="Strength" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
           <mxGeometry x="289.99823335063" y="140.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-178" value="+5" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-178" value="+5" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
           <mxGeometry x="391.7643053381764" y="140.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-179" value="Move" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
           <mxGeometry x="289.99823335063" y="170.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-180" value="12&quot;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-180" value="12&quot;" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
           <mxGeometry x="391.7643053381764" y="170.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-181" value="Special" style="strokeColor=default;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
           <mxGeometry x="289.99823335063" y="200.00333333333333" width="101.76607198754631" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lV4ECo-1T-XDbCV-_EXE-182" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-182" value="3" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
           <mxGeometry x="391.7643053381764" y="200.00333333333333" width="39.57569466182356" height="30" as="geometry" />
         </mxCell>
       </root>
