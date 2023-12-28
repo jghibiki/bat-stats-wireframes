@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T02:28:26.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="dRtxhFZKpMHzggxIsMrZ" version="22.1.15" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-28T02:33:27.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="YNT3x8BPUT237odfLKyu" version="22.1.15" type="github" pages="2">
   <diagram name="List Selection Page" id="qDyTEAsf7X1trr7rJIsg">
     <mxGraphModel dx="2625" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of List Selection Page" id="Kp5YTZmY1dGfOtgE9IV8">
-    <mxGraphModel dx="1235" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="fszB-bSsfYhZuWbeiYeR-0" />
         <mxCell id="fszB-bSsfYhZuWbeiYeR-1" parent="fszB-bSsfYhZuWbeiYeR-0" />
@@ -321,10 +321,10 @@
           <mxGeometry x="330" y="495" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fszB-bSsfYhZuWbeiYeR-67" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;List Builder - Edit: My List &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fszB-bSsfYhZuWbeiYeR-1">
-          <mxGeometry x="407.5" y="560" width="282.5" height="30" as="geometry" />
+          <mxGeometry x="407.5" y="571" width="282.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-0" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="fszB-bSsfYhZuWbeiYeR-1">
-          <mxGeometry x="410" y="600" width="1750" height="700" as="geometry" />
+          <mxGeometry x="410" y="630" width="1750" height="670" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-1" value="Save" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="fszB-bSsfYhZuWbeiYeR-1">
           <mxGeometry x="1990" y="550" width="80" height="40" as="geometry" />
@@ -333,7 +333,59 @@
           <mxGeometry x="2080" y="550" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.writing_pencil;" vertex="1" parent="fszB-bSsfYhZuWbeiYeR-1">
-          <mxGeometry x="640" y="565" width="20" height="20" as="geometry" />
+          <mxGeometry x="640" y="576" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-5" value="" style="shape=rect;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="fszB-bSsfYhZuWbeiYeR-1">
+          <mxGeometry x="710" y="550" width="990" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-6" value="Select Leader" style="shape=ellipse;strokeColor=none;fillColor=#4285F4;fontColor=#000000;labelPosition=right;align=left;spacingLeft=10;fontStyle=1;html=1;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-5">
+          <mxGeometry width="24" height="24" relative="1" as="geometry">
+            <mxPoint x="24" y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-7" value="" style="dashed=0;shape=mxgraph.gmdl.edit;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-6">
+          <mxGeometry x="0.5" y="0.5" width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="-5" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-8" value="" style="shape=line;strokeColor=#b3b3b3;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-5">
+          <mxGeometry width="90" height="10" relative="1" as="geometry">
+            <mxPoint x="180" y="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-9" value="Add Crew Members" style="shape=ellipse;strokeColor=none;fillColor=#9e9e9e;fontColor=#000000;labelPosition=right;align=left;spacingLeft=10;html=1;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-5">
+          <mxGeometry width="24" height="24" relative="1" as="geometry">
+            <mxPoint x="306" y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-10" value="" style="dashed=0;shape=mxgraph.gmdl.check;strokeColor=#ffffff;strokeWidth=2;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-9">
+          <mxGeometry x="0.5" y="0.5" width="12" height="10" relative="1" as="geometry">
+            <mxPoint x="-6" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-11" value="" style="shape=line;strokeColor=#b3b3b3;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-5">
+          <mxGeometry width="90" height="10" relative="1" as="geometry">
+            <mxPoint x="460" y="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-12" value="3" style="shape=ellipse;strokeColor=none;fillColor=#9e9e9e;fontColor=#ffffff;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-5">
+          <mxGeometry width="24" height="24" relative="1" as="geometry">
+            <mxPoint x="568" y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-13" value="Add Equipment" style="shape=rect;strokeColor=none;fillColor=none;align=left;spacingLeft=10;fontColor=#808080;html=1;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-5">
+          <mxGeometry width="110" height="24" relative="1" as="geometry">
+            <mxPoint x="592" y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-23" value="" style="shape=line;strokeColor=#b3b3b3;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-5">
+          <mxGeometry x="690" y="31" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-25" value="3" style="shape=ellipse;strokeColor=none;fillColor=#9e9e9e;fontColor=#ffffff;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-5">
+          <mxGeometry x="800" y="24" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-27" value="Add Cards" style="shape=rect;strokeColor=none;fillColor=none;align=left;spacingLeft=10;fontColor=#808080;html=1;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-5">
+          <mxGeometry x="830" y="24" width="110" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
