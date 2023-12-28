@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T01:54:12.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" version="22.1.15" etag="-OC3nXsNXkNgkVpfNOaP" type="github">
-  <diagram name="Page-1" id="qDyTEAsf7X1trr7rJIsg">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-12-28T01:57:24.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="b-mXuFnKUmJWjU4QxJMv" version="22.1.15" type="github">
+  <diagram name="List Selection Page" id="qDyTEAsf7X1trr7rJIsg">
+    <mxGraphModel dx="1909" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VqeSMfjWMOhX9IEyPzhy-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="370" width="1880" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="VqeSMfjWMOhX9IEyPzhy-3" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="VqeSMfjWMOhX9IEyPzhy-2">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VqeSMfjWMOhX9IEyPzhy-4" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="VqeSMfjWMOhX9IEyPzhy-2">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
