@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T03:19:31.965Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="zIunJ0fXHc2xZdSL0HIv" version="22.1.15" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-28T03:23:06.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="lM2OyfM5xLYjrzPkrIYv" version="22.1.15" type="github" pages="2">
   <diagram name="List Selection Page" id="qDyTEAsf7X1trr7rJIsg">
     <mxGraphModel dx="2625" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="List Builder - Select Boss" id="Kp5YTZmY1dGfOtgE9IV8">
-    <mxGraphModel dx="1433" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2950" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="fszB-bSsfYhZuWbeiYeR-0" />
         <mxCell id="fszB-bSsfYhZuWbeiYeR-1" parent="fszB-bSsfYhZuWbeiYeR-0" />
@@ -380,6 +380,9 @@
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-27" value="Add Cards" style="shape=rect;strokeColor=none;fillColor=none;align=left;spacingLeft=10;fontColor=#808080;html=1;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-5">
           <mxGeometry x="830" y="24" width="110" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="2UrVzxSvV5EoNNDBz7We-3" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-5">
+          <mxGeometry x="70" y="-6" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-30" value="All Ranks" style="rounded=1;fillColor=#F1F2F4;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;sketch=0;" vertex="1" parent="fszB-bSsfYhZuWbeiYeR-1">
           <mxGeometry x="730" y="672.5" width="140" height="33" as="geometry" />
@@ -756,7 +759,7 @@
           <mxGeometry x="40" y="620" width="170" height="213" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-190" value="" style="group" vertex="1" connectable="0" parent="fszB-bSsfYhZuWbeiYeR-1">
-          <mxGeometry x="-180" y="860" width="440" height="330" as="geometry" />
+          <mxGeometry x="-180" y="860" width="440" height="390" as="geometry" />
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-164" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=default;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;spacingBottom=130;fontSize=14;container=0;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
           <mxGeometry width="440" height="260" as="geometry" />
@@ -821,6 +824,15 @@
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-191" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.quickscroll3;dy=0.5;fillColor=#33b5e5;strokeColor=#66D5F5;" vertex="1" parent="fszB-bSsfYhZuWbeiYeR-1">
           <mxGeometry x="2125" y="684" width="6" height="816" as="geometry" />
+        </mxCell>
+        <mxCell id="2UrVzxSvV5EoNNDBz7We-0" value="1. Click the blue &quot;+&quot; to select a model as a boss, and to move on to the &quot;Add Crew Members&quot; step." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="fszB-bSsfYhZuWbeiYeR-1">
+          <mxGeometry x="110" y="1210" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2UrVzxSvV5EoNNDBz7We-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="fszB-bSsfYhZuWbeiYeR-1">
+          <mxGeometry x="410" y="1010" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2UrVzxSvV5EoNNDBz7We-2" value="2. Clicking the &quot;Choose Boss&quot; link text from other steps will bring up a modal window to confirm that the crew models will be cleared if the user chooses to move back to the &quot;Choose Boss&quot; step." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="fszB-bSsfYhZuWbeiYeR-1">
+          <mxGeometry x="110" y="1350" width="170" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
