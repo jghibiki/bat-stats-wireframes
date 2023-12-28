@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T03:17:36.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="-V-iV_3N4h4RL8EL9REg" version="22.1.15" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-28T03:18:45.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="Lq4ShWYWk6BaMm9awzmC" version="22.1.15" type="github" pages="2">
   <diagram name="List Selection Page" id="qDyTEAsf7X1trr7rJIsg">
     <mxGraphModel dx="2625" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of List Selection Page" id="Kp5YTZmY1dGfOtgE9IV8">
-    <mxGraphModel dx="1574" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2950" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="fszB-bSsfYhZuWbeiYeR-0" />
         <mxCell id="fszB-bSsfYhZuWbeiYeR-1" parent="fszB-bSsfYhZuWbeiYeR-0" />
@@ -818,6 +818,9 @@
         </mxCell>
         <mxCell id="lV4ECo-1T-XDbCV-_EXE-182" value="3" style="strokeColor=#A1A1A1;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;fontSize=14;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="lV4ECo-1T-XDbCV-_EXE-190">
           <mxGeometry x="391.7643053381764" y="200.00333333333333" width="39.57569466182356" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4ECo-1T-XDbCV-_EXE-191" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.quickscroll3;dy=0.5;fillColor=#33b5e5;strokeColor=#66D5F5;" vertex="1" parent="fszB-bSsfYhZuWbeiYeR-1">
+          <mxGeometry x="2125" y="684" width="6" height="816" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
