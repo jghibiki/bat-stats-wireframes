@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T03:23:06.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="lM2OyfM5xLYjrzPkrIYv" version="22.1.15" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-28T03:24:52.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="nSgyrLpgZFPw0lA7Y9u5" version="22.1.15" type="github" pages="2">
   <diagram name="List Selection Page" id="qDyTEAsf7X1trr7rJIsg">
     <mxGraphModel dx="2625" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -833,6 +833,9 @@
         </mxCell>
         <mxCell id="2UrVzxSvV5EoNNDBz7We-2" value="2. Clicking the &quot;Choose Boss&quot; link text from other steps will bring up a modal window to confirm that the crew models will be cleared if the user chooses to move back to the &quot;Choose Boss&quot; step." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="fszB-bSsfYhZuWbeiYeR-1">
           <mxGeometry x="110" y="1350" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="0-H0Q98t_os2XhyWvcR5-0" value="If &quot;Show Details&quot; is toggled on, show all stats, otherwise show condensed view with just the name, and the image, and the basic stats stacked vertically. See below for example of the condensed view." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="fszB-bSsfYhZuWbeiYeR-1">
+          <mxGeometry x="-250" y="358" width="170" height="213" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
